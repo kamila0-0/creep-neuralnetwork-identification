@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+
+# Виртуальные окружения и файлы конфигурации
+venv/
+.venv/
+env/
+.env
+
+# VS Code, PyCharm
+.vscode/
+.idea/
+
+# Mac и Windows
+.DS_Store
+Thumbs.db
